@@ -1,0 +1,10 @@
+pandas
+requests
+pydantic
+sqlalchemy
+pyodbc
+psycopg2-binary
+fastapi
+uvicorn
+scipy
+python-dotenv

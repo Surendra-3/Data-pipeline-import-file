@@ -1,0 +1,78 @@
+*.bak
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# -------------------------
+# Virtual environments
+# -------------------------
+venv/
+.venv/
+env/
+ENV/
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
+
+
+# -------------------------
+# Logs / temp files
+# -------------------------
+*.log
+*.tmp
+
+# -------------------------
+# IDE / editor
+# -------------------------
+.vscode/
+.idea/
+*.swp
+
+# -------------------------
+# Build / packaging
+# -------------------------
+build/
+dist/
+*.egg-info/
+
+# -------------------------
+# Jupyter (if you test later)
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+*.pyc
+
+# local packages / build output
+Lib/
+Scripts/
+Include/
+site-packages/
+
+# common build / cache
+build/
+dist/
+.eggs/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+pyvenv.cfg
+share/
+
